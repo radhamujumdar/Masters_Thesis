@@ -1,0 +1,21 @@
+rank,item_id,movie_title,genres,score,algorithm,user_id
+1,8,Babe,Children's Comedy Drama,87.1769790649414,ItemKNN,450
+2,209,This Is Spinal Tap,Comedy Drama Musical,77.89896392822266,ItemKNN,450
+3,31,Crimson Tide,Drama Thriller War,77.05071258544922,ItemKNN,450
+4,175,Brazil,Sci-Fi,76.07671356201172,ItemKNN,450
+5,9,Dead Man Walking,Drama,76.05333709716797,ItemKNN,450
+6,684,In the Line of Fire,Action Thriller,76.01022338867188,ItemKNN,450
+7,404,Pinocchio,Animation Children's,69.88908386230469,ItemKNN,450
+8,48,Hoop Dreams,Documentary,67.60233306884766,ItemKNN,450
+9,52,"Madness of King George, The",Drama,66.1408462524414,ItemKNN,450
+10,42,Clerks,Comedy,66.06468200683594,ItemKNN,450
+1,486,Sabrina,Comedy Romance,3.4209299087524414,BPR,450
+2,317,In the Name of the Father,Drama,2.932483434677124,BPR,450
+3,697,"Basketball Diaries, The",Drama,2.846924304962158,BPR,450
+4,31,Crimson Tide,Drama Thriller War,2.7566463947296143,BPR,450
+5,638,"Return of Martin Guerre, The (Retour de Martin Guerre, Le)",Drama,2.612448215484619,BPR,450
+6,8,Babe,Children's Comedy Drama,2.4965102672576904,BPR,450
+7,529,My Life as a Dog (Mitt liv som hund),Drama,2.4894683361053467,BPR,450
+8,941,With Honors,Comedy Drama,2.4446208477020264,BPR,450
+9,517,Manhattan,Comedy Drama Romance,2.2958598136901855,BPR,450
+10,684,In the Line of Fire,Action Thriller,2.238576889038086,BPR,450

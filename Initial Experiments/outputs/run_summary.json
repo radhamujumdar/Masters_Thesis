@@ -1,0 +1,74 @@
+{
+  "dataset": "MovieLens 100K prepared RecBole TSV",
+  "interactions": 100000,
+  "users": 943,
+  "items": 1682,
+  "positive_threshold": 4.0,
+  "training_positive_interactions": 53603,
+  "heldout_users": 942,
+  "split": "per-user latest positive held out; each evaluated user's events at or after that timestamp are censored from training",
+  "example_user_id": 450,
+  "example_user_training_positive_count": 377,
+  "example_user_top_genres": [
+    [
+      "Drama",
+      179
+    ],
+    [
+      "Comedy",
+      111
+    ],
+    [
+      "Romance",
+      93
+    ],
+    [
+      "Thriller",
+      67
+    ],
+    [
+      "Action",
+      62
+    ],
+    [
+      "Adventure",
+      40
+    ],
+    [
+      "Children's",
+      32
+    ],
+    [
+      "War",
+      30
+    ]
+  ],
+  "metrics": {
+    "ItemKNN": {
+      "HR@10": 0.10084925690021232,
+      "NDCG@10": 0.05575681324473098,
+      "evaluated_users": 942,
+      "median_target_rank": 144.5
+    },
+    "BPR": {
+      "HR@10": 0.12314225053078556,
+      "NDCG@10": 0.06149513328963099,
+      "evaluated_users": 942,
+      "median_target_rank": 92.5
+    }
+  },
+  "models_run": [
+    "ItemKNN",
+    "BPR"
+  ],
+  "llm_candidate_generator": "BPR",
+  "llm_status": "Skipped: set LLM_API_KEY to enable the API-backed reranker.",
+  "runtime_seconds": 4.57,
+  "device": "cpu",
+  "notes": [
+    "Initial baseline run; hyperparameters are not tuned.",
+    "LLM reranker uses BPR's top-100 candidates and item title/genre metadata.",
+    "LightGCN was skipped while investigating the PyTorch sparse-tensor warning.",
+    "Top-10 lists omit every item in this user's training interaction history."
+  ]
+}

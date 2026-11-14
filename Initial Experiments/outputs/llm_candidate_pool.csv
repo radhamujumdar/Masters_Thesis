@@ -1,0 +1,101 @@
+rank,item_id,movie_title,genres,score
+1,486,Sabrina,Comedy Romance,3.4209299087524414
+2,317,In the Name of the Father,Drama,2.932483434677124
+3,697,"Basketball Diaries, The",Drama,2.846924304962158
+4,31,Crimson Tide,Drama Thriller War,2.7566463947296143
+5,638,"Return of Martin Guerre, The (Retour de Martin Guerre, Le)",Drama,2.612448215484619
+6,8,Babe,Children's Comedy Drama,2.4965102672576904
+7,529,My Life as a Dog (Mitt liv som hund),Drama,2.4894683361053467
+8,941,With Honors,Comedy Drama,2.4446208477020264
+9,517,Manhattan,Comedy Drama Romance,2.2958598136901855
+10,684,In the Line of Fire,Action Thriller,2.238576889038086
+11,9,Dead Man Walking,Drama,2.1882846355438232
+12,690,Seven Years in Tibet,Drama War,2.065880060195923
+13,524,"Great Dictator, The",Comedy,2.0135490894317627
+14,508,"People vs. Larry Flynt, The",Drama,1.960378885269165
+15,48,Hoop Dreams,Documentary,1.9244143962860107
+16,1451,Foreign Correspondent,Thriller,1.8563328981399536
+17,306,"Mrs. Brown (Her Majesty, Mrs. Brown)",Drama Romance,1.7224340438842773
+18,515,"Boot, Das",Action Drama War,1.7085065841674805
+19,746,Real Genius,Comedy,1.5166900157928467
+20,14,"Postino, Il",Drama Romance,1.486476182937622
+21,972,Passion Fish,Drama,1.4771511554718018
+22,248,Grosse Pointe Blank,Comedy Crime,1.4181503057479858
+23,458,Nixon,Drama,1.4055466651916504
+24,953,Unstrung Heroes,Comedy Drama,1.3867995738983154
+25,55,"Professional, The",Crime Drama Romance Thriller,1.370896816253662
+26,137,Big Night,Drama,1.3561978340148926
+27,538,Anastasia,Animation Children's Musical,1.3187161684036255
+28,291,Absolute Power,Mystery Thriller,1.2834802865982056
+29,209,This Is Spinal Tap,Comedy Drama Musical,1.2694274187088013
+30,596,"Hunchback of Notre Dame, The",Animation Children's Musical,1.2438117265701294
+31,128,Supercop,Action Thriller,1.236359715461731
+32,554,Waterworld,Action Adventure,1.1172702312469482
+33,720,First Knight,Action Adventure Drama Romance,1.083782434463501
+34,72,"Mask, The",Comedy Crime Fantasy,1.0724087953567505
+35,949,How to Make an American Quilt,Drama Romance,1.0502231121063232
+36,945,Charade,Comedy Mystery Romance Thriller,1.0317401885986328
+37,268,Chasing Amy,Drama Romance,1.0303341150283813
+38,1065,Koyaanisqatsi,Documentary War,1.0221881866455078
+39,212,"Unbearable Lightness of Being, The",Drama,1.0184085369110107
+40,461,Smoke,Drama,1.0119421482086182
+41,658,Pump Up the Volume,Drama,1.0112224817276
+42,1473,"Little Princess, The",Children's Drama,1.0037835836410522
+43,1035,Cool Runnings,Comedy,0.997952401638031
+44,879,"Peacemaker, The",Action Thriller War,0.9495750665664673
+45,245,"Devil's Own, The",Action Drama Thriller War,0.9361350536346436
+46,1167,"Sum of Us, The",Comedy,0.8973166942596436
+47,62,Stargate,Action Adventure Sci-Fi,0.8545648455619812
+48,652,Rosencrantz and Guildenstern Are Dead,Comedy Drama,0.8534680604934692
+49,543,"Misérables, Les",Drama Musical,0.8244593143463135
+50,404,Pinocchio,Animation Children's,0.8167085647583008
+51,303,Ulee's Gold,Drama,0.787483274936676
+52,333,"Game, The",Mystery Thriller,0.7839450240135193
+53,580,"Englishman Who Went Up a Hill, But Came Down a Mountain, The",Comedy Romance,0.7462893724441528
+54,52,"Madness of King George, The",Drama,0.7299532890319824
+55,924,White Squall,Adventure Drama,0.7070701122283936
+56,959,Dazed and Confused,Comedy,0.6727514266967773
+57,420,Alice in Wonderland,Animation Children's Musical,0.6418871879577637
+58,975,Fear,Thriller,0.6281589269638062
+59,698,"Browning Version, The",Drama,0.6085820198059082
+60,531,Shine,Drama Romance,0.6022074818611145
+61,615,"39 Steps, The",Thriller,0.5968979597091675
+62,242,Kolya,Comedy,0.5696362853050232
+63,447,Carrie,Horror,0.4853639304637909
+64,198,Nikita (La Femme Nikita),Thriller,0.45520803332328796
+65,344,"Apostle, The",Drama,0.4517228603363037
+66,639,"Tin Drum, The (Blechtrommel, Die)",Drama,0.4510810971260071
+67,617,"Blue Angel, The (Blaue Engel, Der)",Drama,0.4474899470806122
+68,744,Michael Collins,Drama War,0.4238862991333008
+69,1643,Angel Baby,Drama,0.3999484181404114
+70,754,Red Corner,Crime Thriller,0.3962353765964508
+71,463,"Secret of Roan Inish, The",Adventure,0.34384486079216003
+72,644,"Thin Blue Line, The",Documentary,0.3349248468875885
+73,159,Basic Instinct,Mystery Thriller,0.32624226808547974
+74,298,Face/Off,Action Sci-Fi Thriller,0.3164043724536896
+75,932,First Kid,Children's Comedy,0.3082805573940277
+76,513,"Third Man, The",Mystery Thriller,0.30178529024124146
+77,75,Brother Minister: The Assassination of Malcolm X,Documentary,0.25783517956733704
+78,429,"Day the Earth Stood Still, The",Drama Sci-Fi,0.24577780067920685
+79,412,"Very Brady Sequel, A",Comedy,0.21509204804897308
+80,255,My Best Friend's Wedding,Comedy Romance,0.2078550010919571
+81,946,"Fox and the Hound, The",Animation Children's,0.19498148560523987
+82,929,Harriet the Spy,Children's Comedy,0.19399186968803406
+83,160,Glengarry Glen Ross,Drama,0.17858514189720154
+84,1124,"Farewell to Arms, A",Romance War,0.14428043365478516
+85,330,187,Drama,0.1324537843465805
+86,544,Things to Do in Denver when You're Dead,Crime Drama Romance,0.13195864856243134
+87,578,Demolition Man,Action Sci-Fi,0.08795060962438583
+88,459,"Cry, the Beloved Country",Drama,0.07341211289167404
+89,623,Angels in the Outfield,Children's Comedy,0.0694780945777893
+90,835,"Gay Divorcee, The",Comedy Musical Romance,0.0686989575624466
+91,737,Sirens,Comedy Drama,0.039788149297237396
+92,266,Kull the Conqueror,Action Adventure,0.03358926251530647
+93,764,If Lucy Fell,Comedy Romance,0.02564188838005066
+94,592,True Crime,Mystery Thriller,0.024751098826527596
+95,810,"Shadow, The",Action,0.017503300681710243
+96,326,G.I. Jane,Action Drama War,0.011213618330657482
+97,646,Once Upon a Time in the West,Western,0.011117401532828808
+98,1007,Waiting for Guffman,Comedy,0.001058516907505691
+99,1200,Kim,Children's Drama,-0.006674687843769789
+100,124,Lone Star,Drama Mystery,-0.009478101506829262

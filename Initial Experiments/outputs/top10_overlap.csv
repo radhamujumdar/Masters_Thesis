@@ -1,0 +1,2 @@
+algorithm_a,algorithm_b,shared_items,jaccard_at_10
+ItemKNN,BPR,3,0.17647058823529413
